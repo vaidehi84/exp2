@@ -84,12 +84,11 @@ Learning Curve	Moderate	Easy
 Use Case	Professional apps	Quick UI builds
 🎯 Purpose of This Project
 This project is created to:
+1. Compare MUI vs Bootstrap
 
-Compare MUI vs Bootstrap
+2. Understand component-based UI
 
-Understand component-based UI
+3. Learn dashboard design patterns
 
-Learn dashboard design patterns
-
-Practice clean React folder structure
+4. Practice clean React folder structure
 
